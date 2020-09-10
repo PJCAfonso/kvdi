@@ -4,6 +4,7 @@ go 1.15
 
 require (
 	cloud.google.com/go v0.60.0 // indirect
+	github.com/containerd/fifo v0.0.0-20200410184934-f15a3290365b
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/coreos/prometheus-operator v0.38.1-0.20200424145508-7e176fda06cc
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
